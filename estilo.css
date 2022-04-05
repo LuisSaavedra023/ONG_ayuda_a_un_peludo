@@ -1,0 +1,29 @@
+/*
+*********************************PÁGINA PRINCIPAL****************************************
+*/
+.titulo{
+    margin-top: 5%;
+    margin-bottom: 0;
+    text-align: center;
+}
+.parrafo{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.integrantes{
+    margin-left: 20%;
+}
+.mascotaPrincipal{
+    vertical-align: middle;
+    margin-left: 270px;
+    padding-right: 100px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    
+}
+.menu{
+    width: 100;
+}
